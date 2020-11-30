@@ -27,7 +27,7 @@
                 </div>
               </div>
             </section>
-          </div>
+           </div>
           <section class="ts-number">
             <div class="ts-number-data">
               <TsNumberOrder v-bind:val='input' @add-number="addNumber" v-if="isOrder"/>
